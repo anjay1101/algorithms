@@ -8,4 +8,4 @@ Will cover:
 - Greedy Algorithms
 - Dynamic Programming
 - Linear Programming
-- Intractable 
+- Intractable problems
